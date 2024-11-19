@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 3. Execute o notebook principal
 ```bash
-jupyter notebook main.ipynb
+Modelo_Preditivo_Corrida_Taxi.ipynb
 ```
 
 
