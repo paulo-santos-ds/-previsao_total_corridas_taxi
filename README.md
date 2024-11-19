@@ -84,7 +84,7 @@ O conjunto de dados contém as seguintes colunas:
 
 1. Clone o repositório
 ```bash
-git@github.com:paulo-santos-ds/previsao_total_corridas_taxi.git
+ git clone https://github.com/paulo-santos-ds/previsao_total_corridas_taxi
 ```
 
 2. Instale as dependências
